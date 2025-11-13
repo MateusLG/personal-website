@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/7047aa88-894b-46c6-9bcb-28527310d615/linux.ico?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20251113%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20251113T194906Z&X-Amz-Expires=86400&X-Amz-Signature=d51a251c06d72e9a45ca6dd0c33add5003e38e2db92ae7fec12c517259ecd18b&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22linux.ico%22&response-content-type=image%2Fvnd.microsoft.icon&x-id=GetObject
